@@ -4,6 +4,6 @@
   "private": true,
   "description": "Legal Stremio addon with browser admin panel for authorized content on Vercel",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
