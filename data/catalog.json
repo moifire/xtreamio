@@ -1,0 +1,27 @@
+{
+  "addonsBrand": {
+    "name": "MoiTube Legal PRO",
+    "description": "Catálogo propio o licenciado",
+    "logo": "https://placehold.co/256x256/png?text=MOI"
+  },
+  "items": [
+    {
+      "id": "movie-demo-1",
+      "type": "movie",
+      "name": "Demo Movie One",
+      "description": "Película de ejemplo para contenido autorizado.",
+      "poster": "https://placehold.co/600x900/png?text=Demo+Movie+1",
+      "background": "https://placehold.co/1280x720/png?text=Demo+Movie+1",
+      "genres": [
+        "Drama"
+      ],
+      "year": 2026,
+      "streams": [
+        {
+          "title": "HD",
+          "url": "https://example.com/your-authorized-stream/movie-demo-1.m3u8"
+        }
+      ]
+    }
+  ]
+}

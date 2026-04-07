@@ -1,0 +1,9 @@
+{
+  "name": "legal-pro-vercel-admin",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Legal Stremio addon with browser admin panel for authorized content on Vercel",
+  "engines": {
+    "node": "18.x"
+  }
+}
