@@ -2,24 +2,21 @@
   "addonsBrand": {
     "name": "MoiTube Legal PRO",
     "description": "Catálogo propio o licenciado",
-    "logo": "https://placehold.co/256x256/png?text=MOI"
+    "logo": ""
   },
   "items": [
     {
-      "id": "movie-demo-1",
-      "type": "movie",
-      "name": "Demo Movie One",
-      "description": "Película de ejemplo para contenido autorizado.",
-      "poster": "https://placehold.co/600x900/png?text=Demo+Movie+1",
-      "background": "https://placehold.co/1280x720/png?text=Demo+Movie+1",
-      "genres": [
-        "Drama"
-      ],
-      "year": 2026,
+      "id": "champions",
+      "type": "tv",
+      "name": "champions leage",
+      "description": "disfruta de la chamopions league",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QwgGu0w3-X-1JH3n-HsdH_zpALE5cyF2Xw&s",
+      "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QwgGu0w3-X-1JH3n-HsdH_zpALE5cyF2Xw&s",
+      "genres": [],
       "streams": [
         {
           "title": "HD",
-          "url": "https://example.com/your-authorized-stream/movie-demo-1.m3u8"
+          "url": "http://135.181.151.84:8888/proxy/acestream/manifest.m3u8?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920&api_password=moifire"
         }
       ]
     }
